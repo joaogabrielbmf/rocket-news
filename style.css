@@ -1,0 +1,114 @@
+#image1 {
+  width: 1175px;
+  height: 784px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+body {
+  margin: 0;
+  position: relative;
+  font-family: "Work Sans", sans-serif;
+}
+#background {
+  background-color: black;
+  position: absolute;
+  left: 0;
+  width: 720px;
+  height: 784px;
+}
+#logo {
+  position: absolute;
+  z-index: 1;
+  width: 389px;
+  height: 94px;
+  margin: 50px 1021px 636px 30px;
+}
+#caixa1 {
+  width: 647px;
+  height: 102px;
+  position: absolute;
+  z-index: 1;
+  color: #08c05e;
+  margin: 236px 757px 442px 36px;
+}
+#caixa2 {
+  font-weight: 700;
+  font-size: 24px;
+}
+#caixa3 {
+  font-family: "League Spartan", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: white;
+  margin-top: 9px;
+  margin-bottom: 9px;
+}
+#caixa4 {
+  font-family: "League Spartan", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: #fff;
+  width: 647px;
+  height: 38px;
+  word-wrap: break-word;
+  line-height: 138.735%;
+}
+#insira {
+  color: #a8a8a8;
+  font-family: "League Spartan", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 138.735%; /* 19.423px */
+  margin-top: 50px;
+  position: absolute;
+  z-index: 1;
+  margin-top: 388px;
+  margin-left: 36px;
+}
+fieldset {
+  position: absolute;
+  color: white;
+  border: none;
+  margin-top: 424px;
+  margin-left: 36px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+input {
+  height: 48px;
+  width: 750px;
+  padding: 0;
+  color: #a8a8a8;
+  font-family: "Work Sans", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  padding-left: 15px;
+}
+button {
+  height: 51px;
+  width: 50px;
+  background-color: #8257e5;
+  border: none;
+}
+fieldset div {
+  background-color: #08c05e;
+  width: 5px;
+  height: 51px;
+}
+#final {
+  position: absolute;
+  color: #8257e5;
+  font-size: 14px;
+  font-family: "League Spartan", sans-serif;
+  font-weight: 700;
+  line-height: 19.42px;
+  word-wrap: break-word;
+  margin-left: 36px;
+  margin-top: 524px;
+  display: flex;
+  align-items: center;
+}
